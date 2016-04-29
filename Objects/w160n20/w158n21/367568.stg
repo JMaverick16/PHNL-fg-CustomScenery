@@ -1,0 +1,49 @@
+OBJECT_SHARED Models/Airport/ils.xml -157.939608 21.324078 5.7 270.43
+OBJECT_SHARED Models/Airport/ils.xml -157.924139 21.314997 3.2 307.72
+OBJECT_SHARED Models/Airport/ils.xml -157.907828 21.326378 4.09 133.97
+OBJECT_SHARED Models/Communications/radio-medium.xml -157.989444 21.321389 -151.56 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -157.989444 21.326944 -149.85 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -157.987222 21.369444 -136.95 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -157.964722 21.328333 -169.53 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -157.961111 21.326111 -163.99 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -157.96 21.357778 -131.85 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -157.930278 21.355 -127.23 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -157.913056 21.354722 -88.15 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -157.889722 21.333056 -151.59 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -157.877 21.321056 -136.77 180
+OBJECT_SHARED Models/Communications/vordme_1.xml -157.930422 21.308308 0.67 180
+OBJECT_SHARED Models/Communications/vordme_1.xml -157.903358 21.329953 3.72 180
+OBJECT_SHARED Models/Airport/marker.ac -157.952861 21.325278 5.67 180
+OBJECT_SHARED Models/Airport/marker.ac -157.93325 21.309167 1.17 180
+OBJECT_SHARED Models/Commercial/generic_skyscraper_02.ac -157.908889 21.345 -403.58 180
+OBJECT_SHARED Models/Commercial/generic_skyscraper_03.ac -157.911389 21.347778 -439.31 180
+OBJECT_SHARED Models/Commercial/generic_skyscraper_03.ac -157.907222 21.344444 -410.93 180
+OBJECT_SHARED Models/Commercial/generic_skyscraper_03.ac -157.905 21.346667 -402.71 180
+OBJECT_SHARED Models/Commercial/generic_skyscraper_03.ac -157.900556 21.347778 -419.48 180
+OBJECT_SHARED Models/Commercial/generic_skyscraper_04.ac -157.91 21.346944 -368.81 180
+OBJECT_SHARED Models/Commercial/generic_skyscraper_04.ac -157.884444 21.324444 -471.01 180
+OBJECT_SHARED Models/Commercial/generic_skyscraper_05.ac -157.905 21.345833 -433.37 180
+OBJECT_SHARED Models/Commercial/generic_skyscraper_06.ac -157.910556 21.345 -412.56 180
+OBJECT_SHARED Models/Commercial/generic_skyscraper_06.ac -157.909444 21.333333 -442.71 180
+OBJECT_SHARED Models/Commercial/generic_skyscraper_07.ac -157.940278 21.356944 -425.72 180
+OBJECT_SHARED Models/Commercial/generic_skyscraper_07.ac -157.901944 21.345556 -395.09 180
+OBJECT_SHARED Models/Commercial/generic_skyscraper_07.ac -157.890278 21.359722 -323.61 180
+OBJECT_SHARED Models/Airport/localizer.xml -157.904558 21.325244 -0.02 180.01
+OBJECT_SHARED Models/Airport/localizer.xml -157.903625 21.330506 3.96 142.86
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -157.879755 21.373332 87.52 317.73
+OBJECT_STATIC USSArizona.ac -157.950181 21.365057 0 90
+OBJECT_STATIC Honolulu_SE_Hangar.ac -157.913628 21.319386 2.57 37
+OBJECT_STATIC Honolulu_GA_Hangar_1.ac -157.923266 21.311676 -0.23 37
+OBJECT_STATIC Honolulu_GA_Hangar_2.ac -157.923537 21.311948 -0.22 37
+OBJECT_STATIC Honolulu_GA_Hangar_3.ac -157.922902 21.312879 -0.22 37
+OBJECT_STATIC Honolulu_Small_SE_Hangar.ac -157.913628 21.319386 -0.31 37
+
+OBJECT_STATIC PHNL/klsv-baseops.xml -157.94186689 21.33127913 6.4777 88.3 0.0 -0.0
+OBJECT_SHARED Models/Airport/EDDM_lamppost.xml -157.94162556 21.33123561 6.2887 272.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/EDDM_lamppost.xml -157.94212251 21.33126415 6.2326 266.8 0.0 -0.0
+OBJECT_SHARED Models/AirBase/klsv-west-tanks.xml -157.94377344 21.33230427 6.0919 93.0 0.0 -0.0
+OBJECT_SHARED Models/AirBase/klsv-west-tanks-central.xml -157.94373071 21.33176465 5.5709 272.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/KC-135-lowpoly.xml -157.94041218 21.32946085 6.2361 88.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/KC-135-lowpoly.xml -157.94041686 21.33011124 6.3065 89.9 0.0 -0.0
+OBJECT_SHARED Models/Airport/EDDM_lamppost.xml -157.93949722 21.33122492 6.5352 236.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/EDDM_lamppost.xml -157.94399284 21.33122315 6.0173 312.0 0.0 -0.0
